@@ -1,0 +1,9 @@
+- rollup ->l1  cost
+	- which part cost most
+	- zk rollup vs op-rollup cost: before vs after EIP-4844
+		- EIP-4844
+			- 数据量增加：单个以太坊区块可发布更多数据，提升rollup吞吐量
+			- 新交易类型: blob交易和独立的费用市场,blob数据交易和普通交易隔离
+			- rollup sequencer
+			- calldata
+			- ref:https://taiko.mirror.xyz/3_5rjTXFT_bLYnRBD2ZxqLQu9-qgTF4JOkwK7rUpwJs
